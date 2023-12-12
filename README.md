@@ -1,4 +1,4 @@
-# PMelanoma-CNN-Prediction
+# Melanoma-CNN-Prediction
 > Outline a brief description of your project.
 
 
